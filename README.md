@@ -1,7 +1,7 @@
 # 🚀 Projeto Currículo web
 ## 📋 Sobre o Currículo
 O projeto de currículo foi realizado de forma interdisciplinar, composto pelas seguintes matérias:
-#### Língua Portuguesa
+### Língua Portuguesa
 Montamos todo o currículo no word com a professora Carla.
 ### Interioridades
 Descobrimos nossas hard e soft skills com a professora Thais, fazendo uma brincadeira onde nossos colegas escreviam nossas caracteristicas.
@@ -9,13 +9,13 @@ Descobrimos nossas hard e soft skills com a professora Thais, fazendo uma brinca
 Criamos um web site e estilizamos usando VSCode.
 ## 📄 Descrição do projeto
 Currículo criado durante as aulas de Lingua Portuguesa, nessa aula, a professora trabalhou o currículo como gênero textual, nos ajudando a monta-lo no word. Depois disso, nós realizamos uma atividade na disciplina de Interioridades, onde fomos estimulados a identificar nossas Hard e Soft Skills. E em Fundamentos de Desenvolvimento Web, criamos um web site do nosso currículo, estilizando-o. Esse projeto foi criado para aprendermos a criarmos nosso próprio cúrriculo. 
-## Tecnologias  
+## 🛠️ Tecnologias  
 * HTML
 * CSS
-### ferramentas
+### 🔧 Ferramentas
 * VSCODE
 * GitHub
-### 🔧linguagens usadas
+### 📁 linguagens usadas
 * git clone
 * git add .
 * git commit -m ""
