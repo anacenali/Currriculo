@@ -15,8 +15,9 @@ Currículo criado durante as aulas de Lingua Portuguesa, nessa aula, a professor
  CSS3
 ```
 ### 🔧 Ferramentas
-```VSCODE
-   GitHub
+```
+    VSCODE
+    GitHub
 ```
 ### 📁 linguagens usadas
 ```
