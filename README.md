@@ -15,17 +15,22 @@ Currículo criado durante as aulas de Lingua Portuguesa, nessa aula, a professor
  CSS3
 ```
 ### 🔧 Ferramentas
-* VSCODE
-* GitHub
+```VSCODE
+   GitHub
+```
 ### 📁 linguagens usadas
-* git clone
-* git add .
-* git commit -m ""
-* git push
-* git status 
+```
+ git clone
+ git add .
+ git commit -m ""
+ git push
+ git status 
+```
 ### 🎁 Hard e Soft Skills
 As minhas Hard e Soft Skills, identificadas durante a aula de Interioridades, são:
-* Educada
-* Comunicativa
-* Trabalho em equipe
-* Participativa
+ ```
+ Educada
+ Comunicativa
+ Trabalho em equipe
+ Participativa
+```
